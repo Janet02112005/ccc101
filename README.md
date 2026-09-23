@@ -1,2 +1,2 @@
 # ccc101
-schoolwork
+Laboratory
